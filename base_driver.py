@@ -7,18 +7,8 @@
 #     print("base driver method1 added")
 
 
-def method2():
-    print("base driver method2 added")
-
-
 def test_method3():
     print("test method3 added")
     
 
-def test_method2():
-    print("test method3 added")
-
-
-def test_method1():
-    print("test method3 added")
 
