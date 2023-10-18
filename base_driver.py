@@ -13,5 +13,12 @@ def method2():
 
 def test_method3():
     print("test method3 added")
+    
 
+def test_method2():
+    print("test method3 added")
+
+
+def test_method1():
+    print("test method3 added")
 
