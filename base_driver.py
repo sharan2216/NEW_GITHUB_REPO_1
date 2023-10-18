@@ -13,3 +13,7 @@ def method2():
 
 def test_method():
     print("test method added")
+
+
+def test_method2():
+    print("test method2 added by sdet2")
