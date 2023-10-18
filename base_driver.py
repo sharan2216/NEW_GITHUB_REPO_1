@@ -11,8 +11,8 @@ def method2():
     print("base driver method2 added")
 
 
-def test_method():
-    print("test method added")
+# def test_method():
+#     print("test method added")
 
 
 def test_method2():
